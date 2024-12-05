@@ -1,7 +1,2 @@
-# ros2_demo
-
-## 1. how to use ros2 bag by use c++
-
-## 2. how to use ros2 param by use c++
-
-## 3. how to quick use python
+## TMUX for ros launch
+[how to use tmux by chinese!](https://www.ruanyifeng.com/blog/2019/10/tmux.html)
